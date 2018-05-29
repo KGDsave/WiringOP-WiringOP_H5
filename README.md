@@ -1,11 +1,11 @@
 # wiringOP README
 
-This is a modified WiringPi for OrangePi. We call it WiringOP.
+This is a modified WiringPi for OrangePi-PC2 in AllWinner H5. We call it WiringOP.
 Test fo Orangepi pc
 
 ## Installation
 
-    git clone https://github.com/Alex2269/WiringOP
+    git clone https://github.com/KGDsave/WiringOP/WiringOP_H5.git
     cd WiringOP
     sudo sh build
     gpio -v
